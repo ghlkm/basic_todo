@@ -13,31 +13,41 @@
 
 1. 增加一个待事项目
 
-![img](https://github.com/ghlkm/basic_todo/edit/master/gifs/add.gif)
+<p align="center">
+<img src="./gifs/add.gif">
+ </p>
 
 2. 删除一个待办项目
 
-![img](https://github.com/ghlkm/basic_todo/edit/master/gifs/delete.gif)
-
+<p align="center">
+<img src="./gifs/delete.gif">
+ </p>
+ 
 3. 标记一个待办事项为已完成
 4. 编辑一个待办事项的具体内容
 
-![img](https://github.com/ghlkm/basic_todo/edit/master/gifs/edit.gif)
-
+<p align="center">
+<img src="./gifs/edit.gif">
+ </p>
 
 5. 列出所有的待办事项
 
-![img](https://github.com/ghlkm/basic_todo/edit/master/gifs/login_list.gif)
-
+<p align="center">
+<img src="./gifs/login_list.gif">
+ </p>
+ 
 6. 支持翻页：一页大小为十个item
 
-![img](https://github.com/ghlkm/basic_todo/edit/master/gifs/page_search.gif)
-
+<p align="center">
+<img src="./gifs/page_list.gif">
+ </p>
+ 
 7. 优先级 expire date排序： 点击相应列
 8. 按事件标题搜索
 
-![img](https://github.com/ghlkm/basic_todo/edit/master/gifs/sort_search.gif)
-
+<p align="center">
+<img src="./gifs/sort_search.gif">
+ </p>
 
 ## TODO
 
