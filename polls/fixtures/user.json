@@ -1,0 +1,10 @@
+[
+    {
+        "model":"polls.User",
+        "pk":1,
+        "fields":{
+            "userName":"Tom",
+            "password":"Tom"
+        }
+    }
+]
